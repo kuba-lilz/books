@@ -151,6 +151,7 @@
 - The Happiness Advantage: How a Positive Brain Fuels Success in Work and Life - Shawn Achor
 - Crossing the Chasm: Marketing and Selling Technology Projects to Mainstream Customers - Geoffrey Moore
 - Fearless Salary Negotiation: A step-by-step guide to getting paid what you're worth - Josh Doody
+- Getting to Yes: Negotiating Agreement Without Giving In - Roger Fisher
 
 ### Microservices:
 - Microservice Architecture: Aligning Principles, Practices, and Culture
